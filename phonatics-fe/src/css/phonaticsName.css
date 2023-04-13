@@ -1,0 +1,35 @@
+/* Styles of Phonatics headings */
+
+.heading {
+    font-family: "Lobster",cursive;
+    color: #090909ae;
+    margin-left: 1em;
+    margin-top: 0.8em;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+}
+.heading2{
+    font-family: "Lobster", cursive;
+    color: #090909ae;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    font-size: 30px;
+    margin-left: 0.5rem;
+    margin-top: 1.5rem;
+    flex-grow: 1;
+    opacity: 1;
+}
+.phoneInfo{
+    font-family: "Montserrat",sans-serif;
+    color: rgb(60, 60, 60);;
+    font-weight: 600;
+    font-size: 1.9rem;
+    margin-left: 2em;
+}
+.phonePrice{
+    font-family: "Montserrat", sans-serif;
+    color:rgb(60, 60, 60);
+    font-weight: 600;
+    font-size: 1.4rem;
+    margin-left: 2em;
+}

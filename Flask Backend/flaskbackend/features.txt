@@ -1,0 +1,26 @@
+battery
+display
+screen
+camera
+selfie camera
+color
+notch
+touch id
+fingerprint
+speed
+video quality
+sensor
+aesthetic
+charging
+wired charging
+wireless charging
+image processing
+size
+speaker
+low light performance
+peak brightness
+auto focus
+face recognition
+face unlock
+power consumption
+resolution

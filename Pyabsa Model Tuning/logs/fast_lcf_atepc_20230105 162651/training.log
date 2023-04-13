@@ -1,0 +1,5 @@
+2023-01-05 16:27:13,193 INFO: cuda memory allocated:764963840
+2023-01-05 16:27:13,198 INFO: ***** Running training for Aspect Term Extraction *****
+2023-01-05 16:27:13,199 INFO:   Num examples = 1982
+2023-01-05 16:27:13,199 INFO:   Batch size = 16
+2023-01-05 16:27:13,199 INFO:   Num steps = 1230
