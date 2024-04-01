@@ -1,4 +1,4 @@
-# phonatics
+# Phonatics
 I am thrilled to share that our team has successfully completed our final year project, "Phonatics"! 📱✨
 
 
